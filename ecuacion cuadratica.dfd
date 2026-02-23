@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'ingresa los 3 valores'
+5
+1
+5
+a,b,c
+6
+1
+1
+d
+13
+(b^2)-(4*a*c)
+7
+0
+1
+4
+d>=0
+4
+1
+35
+'no es posible resolverla ecuacion'
+13
+6
+2
+2
+x1
+20
+(-b +sqrt(d)) /(2*a)
+2
+x2
+21
+(-b - sqrt(d)) /(2*a)
+4
+1
+36
+'las soluciones son ', x1, ' y ', x2
+13
+1
